@@ -1,0 +1,25 @@
+.circulo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    position: absolute;
+    margin: auto;
+    left:0%;
+    right: 0ch;
+    top:0cm;
+    bottom: 0cm;
+    border-radius:150px;
+    border:5px solid rgb(228, 219, 140);
+}
+.texto{
+    font-family: 'Indie Flower';
+    margin-right: 3px;
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    left: 420px;
+    top: 590px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
